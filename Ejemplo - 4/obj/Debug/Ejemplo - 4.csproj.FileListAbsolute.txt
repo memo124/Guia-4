@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\bin\Debug\Ejemplo - 4.exe.config
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\bin\Debug\Ejemplo - 4.exe
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\bin\Debug\Ejemplo - 4.pdb
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo - 4.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo - 4.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo___4.Form1.resources
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo___4.Properties.Resources.resources
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo - 4.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo - 4.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo - 4.exe
+D:\proyectos\proyectos en c#\02032024-guia4\Ejemplo - 4\obj\Debug\Ejemplo - 4.pdb
