@@ -1,0 +1,10 @@
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.pdb

@@ -1,0 +1,10 @@
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.Form1.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.Properties.Resources.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.GenerateResource.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb
